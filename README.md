@@ -1,217 +1,112 @@
-# <h1 align="center">Hi 👋, I'm Bhaanu Modepalli</h1>
+<div align="center">
 
-<h3 align="center">Java Full Stack Developer | AI Enthusiast | Problem Solver</h3>
+# 👋 Hi, I'm Bhaanu Modepalli
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;AI+Enthusiast;Always+Learning+New+Technologies" />
-</p>
+### Java Full Stack Developer • AI Enthusiast • Lifelong Learner
 
----
+*"I enjoy building software that solves real problems and challenges me to learn something new every day."*
 
-# 🚀 About Me
-
-🎓 Computer Science Engineering Student
-
-💻 Passionate about Java Full Stack Development
-
-🌱 Currently learning
-
-* Spring Boot
-* React
-* Microservices
-* System Design
-* Docker
-
-🧠 Interested in
-
-* Artificial Intelligence
-* Backend Development
-* Web Applications
-* Open Source
-
-🎯 Goal
-
-Become a Software Engineer at a Product-Based Company.
+</div>
 
 ---
 
-# 🌐 Connect with Me
+## 🚀 About Me
 
-<p align="left">
+I'm a Computer Science Engineering student with a passion for building scalable web applications and exploring the possibilities of Artificial Intelligence.
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+My journey started with Java, and over time I've expanded my skills into full-stack development using Spring Boot, React, and modern web technologies. I enjoy taking ideas from concept to implementation and learning through hands-on projects.
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
+I'm always looking for opportunities to improve my problem-solving skills, write cleaner code, and build applications that make a meaningful impact.
 
 ---
 
-# 💻 Tech Stack
+## 💡 What I'm Currently Exploring
+
+* ☕ Building backend applications with Spring Boot
+* ⚛️ Creating responsive user interfaces with React
+* 🤖 Developing AI-powered applications
+* 📚 Strengthening Data Structures & Algorithms
+* ☁️ Learning Microservices and Cloud Technologies
+
+---
+
+## 🛠 Tech Stack
 
 ### Languages
 
-![Java](https://skillicons.dev/icons?i=java)
-
-![Python](https://skillicons.dev/icons?i=python)
-
-![js](https://skillicons.dev/icons?i=javascript)
-
-![c](https://skillicons.dev/icons?i=c)
-
----
+* Java
+* Python
+* JavaScript
+* SQL
 
 ### Frontend
 
-![React](https://skillicons.dev/icons?i=react)
-
-![HTML](https://skillicons.dev/icons?i=html)
-
-![CSS](https://skillicons.dev/icons?i=css)
-
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-
----
+* React
+* HTML
+* CSS
+* Tailwind CSS
 
 ### Backend
 
-![Spring](https://skillicons.dev/icons?i=spring)
+* Spring Boot
+* REST APIs
+* Maven
 
-![Node](https://skillicons.dev/icons?i=nodejs)
+### Databases
 
----
+* MySQL
+* MongoDB
 
-### Database
+### Tools & Technologies
 
-![MySQL](https://skillicons.dev/icons?i=mysql)
-
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-
----
-
-### Tools
-
-![Git](https://skillicons.dev/icons?i=git)
-
-![Github](https://skillicons.dev/icons?i=github)
-
-![VSCode](https://skillicons.dev/icons?i=vscode)
-
-![Docker](https://skillicons.dev/icons?i=docker)
-
-![Postman](https://skillicons.dev/icons?i=postman)
+* Git
+* GitHub
+* Docker
+* Postman
+* VS Code
 
 ---
 
-# 📊 GitHub Statistics
+## 🌟 Featured Projects
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+### 🧠 MemoryOS AI
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=tokyonight)
+A smart memory assistant designed to organize, search, and retrieve information efficiently using AI concepts.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+### 🤖 AI Resume Skill Gap Analyzer
 
----
+A web application that analyzes resumes, identifies missing skills, and provides personalized recommendations based on job descriptions.
 
-# 📈 Contribution Graph
+### 👤 Face Recognition Application
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=tokyo-night)
+An AI-based application that recognizes and verifies faces using computer vision techniques, demonstrating practical image processing and machine learning concepts.
 
----
+### 📚 Student Management System
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME\&theme=tokyonight\&margin-w=15)
+A full-stack application developed with Spring Boot and MySQL to manage student records, courses, and academic information efficiently.
 
 ---
 
-# 🚀 Featured Projects
+## 📖 Currently Learning
 
-## 🧠 MemoryOS AI
-
-AI-powered memory assistant
-
-Java • Spring Boot • React
-
----
-
-## 🤖 AI Resume Skill Gap Analyzer
-
-Resume analysis with AI
-
-Spring Boot • OpenAI
-
----
-
-## 🌍 WasteChain
-
-Blockchain-based Waste Management
-
-React • Blockchain
-
----
-
-## 📚 Student Management System
-
-Spring Boot + MySQL
-
----
-
-## 📝 Task Manager
-
-REST APIs with Spring Boot
-
----
-
-## 💼 Portfolio Website
-
-Modern Developer Portfolio
-
-React • Tailwind CSS
-
----
-
-# 📚 Currently Learning
-
+* System Design
 * Microservices
 * Docker
-* Kubernetes
-* AWS
-* System Design
+* Cloud Computing
+* Software Architecture
 
 ---
 
-# 📅 2026 Goals
+## 🎯 My Goal
 
-* Solve 500+ DSA Problems
-* Contribute to Open Source
-* Build 10 Full Stack Projects
-* Learn Cloud Deployment
-* Secure a Software Engineer Role
+My goal is to become a software engineer who builds reliable, scalable, and user-friendly applications. I'm continuously improving my technical skills through real-world projects, coding practice, and by learning from the developer community.
 
 ---
 
-# ⚡ Fun Fact
+## 🤝 Let's Connect
 
-> First, solve the problem.
-> Then, write the code.
+I'm always open to connecting with fellow developers, collaborating on interesting projects, and learning from the tech community.
 
----
+If you find any of my projects useful or inspiring, feel free to explore the repositories and leave a ⭐. Your support encourages me to keep building and sharing new ideas.
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
-</p>
-
-<p align="center">
-
-⭐ Thanks for visiting my profile!
-
-</p>
+Thanks for stopping by! Happy coding! 🚀
